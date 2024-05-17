@@ -1,1 +1,52 @@
-{}
+{
+  "blogs": [
+    {
+      "id": "0bdf",
+      "title": "bbb",
+      "author": "bbb",
+      "body": "hhh"
+    },
+    {
+      "id": "d5c7",
+      "title": "bbb",
+      "author": "bbb",
+      "body": "hhh"
+    },
+    {
+      "id": "61b3",
+      "title": "bbb",
+      "author": "bbb",
+      "body": "hhh"
+    },
+    {
+      "id": "f764",
+      "title": "bbb",
+      "author": "bbb",
+      "body": "hhh"
+    },
+    {
+      "id": "6fa3",
+      "title": "",
+      "author": "",
+      "body": "\n"
+    },
+    {
+      "id": "94f8",
+      "title": "ggg",
+      "author": "hhhkkl",
+      "body": "hhh\n"
+    },
+    {
+      "id": "bf11",
+      "title": "My blog",
+      "author": "Diana Kalei",
+      "body": "This is my story this is my blog."
+    },
+    {
+      "id": "ca1f",
+      "title": "My blog",
+      "author": "Diana Kalei",
+      "body": "This is my story. This is my blog"
+    }
+  ]
+}
