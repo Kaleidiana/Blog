@@ -1,12 +1,16 @@
+import BlogList from "./BlogList";
+import UseFetch from "./UseFetch";
+
 const Home = () => {
+  const {data:blogs}= UseFetch('http://localhost:4000/blogs')
   return (
     
       <div className="Home">
-        <h2>Home</h2>
+        {blogs && <BlogList blogs={blogs} title="All blogs" />}
        
       </div>
     
   );
-};
+}
 
 export default Home;
